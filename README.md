@@ -3,7 +3,7 @@
 </p>
 
 <h1>Setting Up a VPN (Virtual Private Network)</h1>
-This tutorial will explain the outlines needed in order to set up a VPN .<br />
+This tutorial will explain the outlines needed in order to set up a VPN Step by Step.<br />
 
 <h2> The Use and purpose of a VPN </h2>
   A virtual private network, (VPN) establishes a digital connection between your computer and a remote server owned by a VPN provider, creating a point-to-point tunnel that encrypts your personal data, masks your IP address, and lets you sidestep website blocks and firewalls on the internet. This ensures that your online experiences are private, protected, and more secure.
