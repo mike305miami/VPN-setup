@@ -49,7 +49,7 @@ What you want to do next is Sign up for ProtonVPN, As soon as you sign up you'll
 </p>
 
 <p>
-Once successfully Downloaded the VPN will connect you automatically to a server in a different part of the world and you'll have a different IP address compared to the one your normal Pc uses. What you finally want to do is go back to whatismyipaddress.com and make sure you have your VPN's IP address set compared to the one your assigned computer gives you.
+Once successfully Downloaded the VPN will connect you automatically to a server in a different part of the world and you'll have a different IP address assigned compared to the one your normal Pc uses. What you finally want to do is go back to whatismyipaddress.com and make sure you have your VPN's IP address set compared to the one your assigned computer gives you.
 </p>
 <br />
 <p>
