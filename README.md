@@ -11,7 +11,6 @@ This tutorial will explain the outlines needed in order to set up a VPN Step by 
   <h2>Environments and Technologies Used </h2>
 
 - Microsoft Windows 11
-- Remote Laptop
 - Proton VPN
 
 <h2>Operating Systems Used </h2>
